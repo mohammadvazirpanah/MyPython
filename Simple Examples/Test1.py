@@ -1,4 +1,4 @@
-number = int(input("Please Give Me Your Number? "))
+number = int(input("Please Give Me Your Number?"))
 
 print("Binary Value Is %s" % (bin(number)))
 
