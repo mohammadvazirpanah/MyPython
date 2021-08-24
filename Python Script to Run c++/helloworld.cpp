@@ -13,5 +13,8 @@ int main()
         cout << word << " ";
     }
     cout << endl;
-    return 0;
+    int num;
+    cout << "Please Enter one Number = ";
+    cin >> num;
+    return num;
 }
