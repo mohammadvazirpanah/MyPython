@@ -1,2 +1,2 @@
 # MyPython
-## Some small example for Python 
+## Some small examples of Python 
